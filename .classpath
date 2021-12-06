@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dependencias/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="dependencias/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="dependencias/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="dependencias/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="dependencias/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="dependencias/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="dependencias/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="dependencias/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="dependencias/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="dependencias/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="dependencias/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

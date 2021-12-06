@@ -1,1 +1,21 @@
 Para o teste da Tarefa 1 e da Tarefa 2, como não precisa se registrar, não há necessidade de login
+
+      Cenário de Teste Parte 2
+
+Funcionalidade: Busca no Banco de Questões
+
+Cenário: Busca por varias questões
+
+Dado que navego para a página de busca do banco de questões
+
+E digito "Science: Computers" no campo de busca
+
+E seleciona "Category" no ComboBox ao lado do campo de busca
+
+Quando clico no botão de buscar
+
+Então visualizo uma tabela com 25 tuplas
+
+E visualizo o painel de paginação
+
+ 
